@@ -13,7 +13,7 @@ git clone https://github.com/trenker/typo3.fal_clean.git typo3conf/ext/fal_clean
 
 or via composer
 ```bash
-composer require georggrossberger/fal-clean
+composer require georggrossberger/falclean
 ```
 
 Using the composer method will, of course, require an installation using the [composer integration](http://composer.typo3.org) of TYPO3.
