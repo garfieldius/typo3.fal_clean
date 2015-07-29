@@ -1,0 +1,16 @@
+{
+	"name": "georggrossberger/falclean",
+	"description": "Remove unreferenced files from uploads and fileadmin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Trenker/typo3.fal_cleanup.git"
+	},
+	"homepage": "https://github.com/Trenker/typo3.fal_cleanup",
+	"type": "typo3-cms-extension",
+	"replace": {
+		"fal_clean": "*"
+	},
+	"require": {
+		"typo3/cms": "^7.3"
+	}
+}
