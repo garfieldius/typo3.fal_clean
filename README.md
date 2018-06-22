@@ -31,7 +31,7 @@ The extension offers two CLI extbase commands: `simulate` and `execute`. The fir
 php typo3/cli_dispatch.phpsh extbase falclean:simulate
 
 # Remove the files
-php typo3/cli_dispatch.phpsh extbase falclean:simulate
+php typo3/cli_dispatch.phpsh extbase falclean:execute
 ```
 
 Make sure your FAL relations are properly set up, or it will delete more than desired.
